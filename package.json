@@ -1,11 +1,11 @@
 {
   "name": "hello-world",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hello World",
   "homepage": "",
   "author": {
     "name": "Fred Anderson",
-    "email": "fred.anderson@atssecured.com",
+    "email": "whitefalcon@gmail.com",
     "url": "www.github.com"
   },
   "files": [

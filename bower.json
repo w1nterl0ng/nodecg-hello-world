@@ -1,0 +1,7 @@
+{
+  "name": "w1nterl0ng-hello-world",
+  "dependencies": {
+    "paper-input": "PolymerElements/paper-input#~1.1.5",
+    "paper-button": "PolymerElements/paper-button#~1.0.11"
+  }
+}
