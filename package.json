@@ -1,0 +1,42 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "Hello World",
+  "homepage": "",
+  "author": {
+    "name": "Fred Anderson",
+    "email": "fred.anderson@atssecured.com",
+    "url": "www.github.com"
+  },
+  "files": [
+    "dashboard",
+    "graphics",
+    "extension.js",
+    "extension"
+  ],
+  "keywords": [
+    "",
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": "~0.8.0",
+    "dashboardPanels": [
+      {
+        "name": "hello-world",
+        "title": "Hello World",
+        "width": 2,
+        "file": "hello-world.html",
+        "headerColor": "#9f9bbd"
+      }
+    ],
+    "graphics": [
+      {
+        "file": "index.html",
+        "width": 800,
+        "height": 400
+      }
+    ]
+  },
+  "repository": "https://github.com/nodecg/nodecg.git",
+  "license": "MIT"
+}
